@@ -1,2 +1,2 @@
 # UNCCDataCamp
-UNCC Data Science Bootcamp
+UNCC Data Science Bootcamp HW repository
